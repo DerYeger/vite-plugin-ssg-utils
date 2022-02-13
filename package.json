@@ -6,12 +6,12 @@
     "vite-plugin",
     "vite-ssg"
   ],
+  "license": "MIT",
+  "repository": "github:DerYeger/vite-plugin-ssg-utils",
   "homepage": "https://github.com/DerYeger/vite-plugin-ssg-utils#readme",
   "bugs": {
     "url": "https://github.com/DerYeger/vite-plugin-ssg-utils/issues"
   },
-  "license": "MIT",
-  "repository": "github:DerYeger/vite-plugin-ssg-utils",
   "funding": "https://github.com/sponsors/DerYeger",
   "author": "Jan Müller <janmueller3698@gmail.com>",
   "files": [
