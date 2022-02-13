@@ -39,12 +39,12 @@
     "typecheck": "tsc --noEmit",
     "dev": "nr build && nr demo && vite preview",
     "demo": "vite-ssg build",
-    "lint": "eslint \"{src,test}/**/*.ts\"",
+    "lint": "eslint \"./**/*.{js,json,ts,vue,yml}\"",
     "fix": "nr lint --fix",
     "test": "vitest"
   },
   "lint-staged": {
-    "*.{js,json,ts}": "eslint --fix"
+    "*.{js,json,ts,vue,yml}": "eslint --fix"
   },
   "peerDependencies": {
     "vite": "^2.0.0"
