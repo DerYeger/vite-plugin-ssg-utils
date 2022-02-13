@@ -2,6 +2,9 @@ import type { Plugin } from 'vite'
 import { gray, yellow } from 'kolorist'
 
 export interface Options {
+  /**
+   * Use false to disable mocking of ResizeObserver.
+   */
   resizeObserver: boolean | (new () => ResizeObserver)
 }
 
