@@ -3,3 +3,5 @@
 
 yarn lint-staged
 yarn build
+yarn demo
+yarn test --run
