@@ -68,7 +68,7 @@
     "vite": "2.8.2",
     "vite-plugin-ssg-utils": "link:.",
     "vite-ssg": "0.17.10",
-    "vitest": "0.3.4",
+    "vitest": "0.3.5",
     "vue": "3.2.31"
   },
   "engines": {
