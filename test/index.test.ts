@@ -1,7 +1,6 @@
-import { describe, expect, it } from 'vitest'
-
 import type { Options } from 'vite-plugin-ssg-utils'
 import SSGUtils from 'vite-plugin-ssg-utils'
+import { describe, expect, it } from 'vitest'
 
 describe('The plugin', () => {
   it('installs a dummy ResizeObserver', () => {
