@@ -1,5 +1,5 @@
-import type { Plugin } from 'vite'
 import { gray, yellow } from 'kolorist'
+import type { Plugin } from 'vite'
 
 export interface Options {
   /**
