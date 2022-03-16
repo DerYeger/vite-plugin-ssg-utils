@@ -2700,7 +2700,7 @@ format@^0.2.0:
   resolved "https://registry.yarnpkg.com/format/-/format-0.2.2.tgz#d6170107e9efdc4ed30c9dc39016df942b5cb58b"
   integrity sha1-1hcBB+nv3E7TDJ3DkBbflCtctYs=
 
-fs-extra@^10.0.0:
+fs-extra@^10.0.0, fs-extra@^10.0.1:
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-10.0.1.tgz#27de43b4320e833f6867cc044bfce29fdf0ef3b8"
   integrity sha512-NbdoVMZso2Lsrn/QwLXOy6rm0ufY2zEOKCDzJR/0kBsb0E6qed0P3iYK+Ath3BfvXEeu4JhEtXLgILx5psUfag==
@@ -4193,10 +4193,15 @@ prettier-linter-helpers@^1.0.0:
   dependencies:
     fast-diff "^1.1.2"
 
-prettier@2.5.1, prettier@^2.5.1:
+prettier@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
   integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
+
+prettier@^2.6.0:
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.0.tgz#12f8f504c4d8ddb76475f441337542fa799207d4"
+  integrity sha512-m2FgJibYrBGGgQXNzfd0PuDGShJgRavjUoRCw1mZERIWVSXF0iLzLm+aOqTAbLnC3n6JzUhAA8uZnFVghHJ86A==
 
 pretty-bytes@^6.0.0:
   version "6.0.0"
@@ -5776,17 +5781,17 @@ vfile@^4.0.0:
 "vite-plugin-ssg-utils@link:.":
   version "0.0.0"
 
-vite-ssg@0.17.11:
-  version "0.17.11"
-  resolved "https://registry.yarnpkg.com/vite-ssg/-/vite-ssg-0.17.11.tgz#47018e7b479e45f66ea0a6053788aed07785ceec"
-  integrity sha512-Fr64PausOt65RY6ROfrAGtUuwOoQXMAQLlpSAvCRGeOVZ6BvTyBW3gH+eAkJO3vCJXlHLQJFs8mA74g2Tx48mw==
+vite-ssg@0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/vite-ssg/-/vite-ssg-0.19.0.tgz#731b3461438c0420da5d35bcb7677d7e052babdd"
+  integrity sha512-LpjMTs12BgTpb4YwLKhvGd6ZRMxDf02Hq+B4uxdIe1+565nYsLkaem9U5vsuSMOu7lN9Y3XTXd752fmtuG2xHA==
   dependencies:
-    fs-extra "^10.0.0"
+    fs-extra "^10.0.1"
     html-minifier "^4.0.0"
     html5parser "^2.0.2"
     jsdom "^19.0.0"
     kolorist "^1.5.1"
-    prettier "^2.5.1"
+    prettier "^2.6.0"
     yargs "^17.3.1"
 
 vite@2.8.6, vite@^2.7.10:
