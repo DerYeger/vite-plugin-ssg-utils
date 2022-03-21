@@ -7,17 +7,16 @@
     "vite-ssg"
   ],
   "license": "MIT",
+  "author": "Jan Müller <janmueller3698@gmail.com>",
   "repository": "github:DerYeger/vite-plugin-ssg-utils",
   "homepage": "https://github.com/DerYeger/vite-plugin-ssg-utils#readme",
   "bugs": {
     "url": "https://github.com/DerYeger/vite-plugin-ssg-utils/issues"
   },
   "funding": "https://github.com/sponsors/DerYeger",
-  "author": "Jan Müller <janmueller3698@gmail.com>",
-  "files": [
-    "dist",
-    "LICENSE"
-  ],
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "exports": {
     ".": {
       "require": "./dist/index.cjs",
@@ -25,9 +24,10 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "main": "dist/index.cjs",
-  "module": "dist/index.mjs",
-  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
   "scripts": {
     "prepare": "husky install",
     "prebuild": "rimraf dist",
@@ -38,9 +38,6 @@
     "lint": "eslint \"./**/*.{js,json,ts,vue,yml}\"",
     "fix": "nr lint --fix",
     "test": "vitest"
-  },
-  "lint-staged": {
-    "*.{js,json,ts,vue,yml}": "eslint --fix"
   },
   "peerDependencies": {
     "vite": "^2.0.0"
@@ -70,6 +67,9 @@
     "vite-ssg": "0.19.0",
     "vitest": "0.7.6",
     "vue": "3.2.31"
+  },
+  "lint-staged": {
+    "*.{js,json,ts,vue,yml}": "eslint --fix"
   },
   "engines": {
     "node": ">=14"
