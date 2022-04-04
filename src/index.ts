@@ -21,7 +21,9 @@ function SSGUtils(options: Options = { resizeObserver: true }): Plugin {
 }
 
 function setupResizeObserver({ resizeObserver }: Options) {
-  if (resizeObserver === false) return
+  if (resizeObserver === false) {
+    return
+  }
 
   if (resizeObserver === true) {
     /* eslint-disable @typescript-eslint/no-empty-function */
