@@ -53,7 +53,7 @@
     "@vitejs/plugin-vue": "2.3.1",
     "@vitest/ui": "0.9.2",
     "@vueuse/head": "0.7.5",
-    "@yeger/eslint-config": "1.4.14",
+    "@yeger/eslint-config": "1.4.15",
     "eslint": "8.13.0",
     "husky": "7.0.4",
     "jsdom": "19.0.0",
