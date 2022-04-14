@@ -62,7 +62,7 @@
     "rimraf": "3.0.2",
     "typescript": "4.6.3",
     "unbuild": "0.7.4",
-    "vite": "2.9.1",
+    "vite": "2.9.5",
     "vite-plugin-ssg-utils": "link:.",
     "vite-ssg": "0.19.2",
     "vitest": "0.9.3",
