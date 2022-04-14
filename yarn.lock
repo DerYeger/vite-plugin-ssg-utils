@@ -3789,10 +3789,10 @@ mlly@^0.3.6:
   resolved "https://registry.yarnpkg.com/mlly/-/mlly-0.3.19.tgz#a4aac171d2142eafc9c9d4c1937dac5a11f70565"
   integrity sha512-zMq5n3cOf4fOzA4WoeulxagbAgMChdev3MgP6K51k7M0u2whTXxupfIY4VVzws4vxkiWhwH1rVQcsw7zDGfRhA==
 
-mlly@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/mlly/-/mlly-0.5.1.tgz#bf15a1092d4e3e7f9fc303f6d9aa18f6a3fca58b"
-  integrity sha512-0axKqxbYyQvaAfi6BNqDluCJqg6RkjdsdFxSDoiP6l5HplSTr3ie5Vkxvw9U9ogdj65x56amTnAn+xSoP727Rg==
+mlly@^0.5.2:
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/mlly/-/mlly-0.5.2.tgz#67b908e967cfcaee27e90bef8a84aaede599bd21"
+  integrity sha512-4GTELSSErv6ZZJYU98fZNuIBJcXSz+ktHdRrCYEqU1m6ZlebOCG0jwZ+IEd9vOrbpYsVBBMC5OTrEyLnKRcauQ==
   dependencies:
     pathe "^0.2.0"
     pkg-types "^0.3.2"
@@ -5617,10 +5617,10 @@ unbox-primitive@^1.0.1:
     has-symbols "^1.0.2"
     which-boxed-primitive "^1.0.2"
 
-unbuild@0.7.3:
-  version "0.7.3"
-  resolved "https://registry.yarnpkg.com/unbuild/-/unbuild-0.7.3.tgz#76506d09821e424bdc65b2dd2f7916db66d16471"
-  integrity sha512-P3w2ZBhQ9bBOBbIEJx1n9I9lhe+WMfqHk6nIqd0D71kW8Vua+Rpn4IhWCsLYIxwP5sgy90ZRXUKa2Fbox/KITw==
+unbuild@0.7.4:
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/unbuild/-/unbuild-0.7.4.tgz#e85591a75f6260d2f2a468394d537f3e60ebea66"
+  integrity sha512-gJvfMw4h5Q7xieMCeW/d3wtNKZDpFyDR9651s8kL+AGp95sMNhAFRLxy24AUKC3b5EQbB74vaDoU5R+XwsZC6A==
   dependencies:
     "@rollup/plugin-alias" "^3.1.9"
     "@rollup/plugin-commonjs" "^21.0.3"
@@ -5637,7 +5637,7 @@ unbuild@0.7.3:
     magic-string "^0.26.1"
     mkdirp "^1.0.4"
     mkdist "^0.3.10"
-    mlly "^0.5.1"
+    mlly "^0.5.2"
     mri "^1.2.0"
     pathe "^0.2.0"
     pkg-types "^0.3.2"
