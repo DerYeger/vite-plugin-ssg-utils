@@ -47,8 +47,8 @@
   },
   "devDependencies": {
     "@antfu/ni": "0.14.0",
-    "@commitlint/cli": "16.2.3",
-    "@commitlint/config-conventional": "16.2.1",
+    "@commitlint/cli": "16.2.4",
+    "@commitlint/config-conventional": "16.2.4",
     "@types/node": "17.0.5",
     "@vitejs/plugin-vue": "2.3.1",
     "@vitest/ui": "0.10.0",
