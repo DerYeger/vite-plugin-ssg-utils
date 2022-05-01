@@ -73,10 +73,10 @@
     jsonc-eslint-parser "^2.1.0"
     yaml-eslint-parser "^0.5.0"
 
-"@antfu/ni@0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@antfu/ni/-/ni-0.14.0.tgz#9a90f34a562620e1ef2a255c60402ed6e18b06ae"
-  integrity sha512-AfHEQ+6Kjb+PMdOBR2h6CrDKYgncIZKW5NwkR1BLkCWm4DHBCTfnQJeO3ixtWr0KE9BCnwGoM8xEx6y45p0n4g==
+"@antfu/ni@0.16.2":
+  version "0.16.2"
+  resolved "https://registry.yarnpkg.com/@antfu/ni/-/ni-0.16.2.tgz#c740d965ccf7c1ea682811cf199fe0d5f20c6f4f"
+  integrity sha512-HZH4I07EYKU4KZLtUYm/zEmaDIhaq51H/qu45uH1AcUPWqMGbB7evE/TnSr0SGInEA+oQs4Is5Vn/PmQhfuU5w==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.16.7":
   version "7.16.7"
