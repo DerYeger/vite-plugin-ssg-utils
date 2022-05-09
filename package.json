@@ -55,7 +55,7 @@
     "@vueuse/head": "0.7.6",
     "@yeger/eslint-config": "1.4.21",
     "eslint": "8.15.0",
-    "husky": "7.0.4",
+    "husky": "8.0.1",
     "jsdom": "19.0.0",
     "jsdom-global": "3.0.2",
     "lint-staged": "12.4.1",
