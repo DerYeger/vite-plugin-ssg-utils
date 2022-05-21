@@ -54,7 +54,7 @@
     "@vitest/ui": "0.12.7",
     "@vueuse/head": "0.7.6",
     "@yeger/eslint-config": "1.4.24",
-    "eslint": "8.15.0",
+    "eslint": "8.16.0",
     "husky": "8.0.1",
     "jsdom": "19.0.0",
     "jsdom-global": "3.0.2",
