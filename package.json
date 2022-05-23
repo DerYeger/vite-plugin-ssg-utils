@@ -66,7 +66,7 @@
     "vite-plugin-ssg-utils": "link:.",
     "vite-ssg": "0.20.0",
     "vitest": "0.12.9",
-    "vue": "3.2.35"
+    "vue": "3.2.36"
   },
   "lint-staged": {
     "*.{js,json,ts,vue,yml}": "eslint --fix"
