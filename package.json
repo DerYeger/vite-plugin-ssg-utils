@@ -60,7 +60,7 @@
     "jsdom-global": "3.0.2",
     "lint-staged": "12.4.2",
     "rimraf": "3.0.2",
-    "typescript": "4.6.4",
+    "typescript": "4.7.2",
     "unbuild": "0.7.4",
     "vite": "2.9.9",
     "vite-plugin-ssg-utils": "link:.",
