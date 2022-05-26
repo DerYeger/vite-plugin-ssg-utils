@@ -2,32 +2,35 @@
   "name": "vite-plugin-ssg-utils",
   "version": "1.0.1",
   "description": "Utils for vite-ssg and other Vite SSG or SSR tools.",
+  "author": "Jan Müller <janmueller3698@gmail.com>",
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/DerYeger",
+  "homepage": "https://github.com/DerYeger/vite-plugin-ssg-utils#readme",
+  "repository": "github:DerYeger/vite-plugin-ssg-utils",
+  "bugs": {
+    "url": "https://github.com/DerYeger/vite-plugin-ssg-utils/issues"
+  },
   "keywords": [
     "vite-plugin",
     "vite-ssg"
   ],
-  "license": "MIT",
-  "author": "Jan Müller <janmueller3698@gmail.com>",
-  "repository": "github:DerYeger/vite-plugin-ssg-utils",
-  "homepage": "https://github.com/DerYeger/vite-plugin-ssg-utils#readme",
-  "bugs": {
-    "url": "https://github.com/DerYeger/vite-plugin-ssg-utils/issues"
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
   },
-  "funding": "https://github.com/sponsors/DerYeger",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "exports": {
-    ".": {
-      "require": "./dist/index.cjs",
-      "import": "./dist/index.mjs",
-      "types": "./dist/index.d.ts"
-    }
-  },
   "files": [
     "dist",
     "LICENSE"
   ],
+  "engines": {
+    "node": ">=14"
+  },
   "scripts": {
     "prepare": "husky install",
     "prebuild": "rimraf dist",
@@ -53,7 +56,7 @@
     "@vitejs/plugin-vue": "2.3.3",
     "@vitest/ui": "0.12.9",
     "@vueuse/head": "0.7.6",
-    "@yeger/eslint-config": "1.4.24",
+    "@yeger/eslint-config": "1.4.25",
     "eslint": "8.16.0",
     "husky": "8.0.1",
     "jsdom": "19.0.0",
@@ -70,9 +73,6 @@
   },
   "lint-staged": {
     "*.{js,json,ts,vue,yml}": "eslint --fix"
-  },
-  "engines": {
-    "node": ">=14"
   },
   "publishConfig": {
     "access": "public"
