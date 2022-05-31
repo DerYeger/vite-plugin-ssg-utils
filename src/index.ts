@@ -26,19 +26,17 @@ function setupResizeObserver({ resizeObserver }: Options) {
   }
 
   if (resizeObserver === true) {
-    /* eslint-disable @typescript-eslint/no-empty-function */
     global.ResizeObserver = class ResizeObserver {
       public constructor() {}
       public disconnect() {}
       public observe() {}
       public unobserve() {}
     }
-    /* eslint-enable @typescript-eslint/no-empty-function */
-    // eslint-disable-next-line no-console
+
     log('Using dummy ResizeObserver')
   } else {
     global.ResizeObserver = resizeObserver
-    // eslint-disable-next-line no-console
+
     log('Using provided ResizeObserver')
   }
 }
