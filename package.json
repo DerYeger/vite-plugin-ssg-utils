@@ -67,7 +67,7 @@
     "unbuild": "0.7.4",
     "vite": "2.9.9",
     "vite-plugin-ssg-utils": "link:.",
-    "vite-ssg": "0.20.0",
+    "vite-ssg": "0.20.1",
     "vitest": "0.13.1",
     "vue": "3.2.36"
   },
