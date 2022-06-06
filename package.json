@@ -68,7 +68,7 @@
     "vite": "2.9.9",
     "vite-plugin-ssg-utils": "link:.",
     "vite-ssg": "0.20.1",
-    "vitest": "0.13.1",
+    "vitest": "0.14.0",
     "vue": "3.2.36"
   },
   "lint-staged": {
