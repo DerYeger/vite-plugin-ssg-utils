@@ -889,10 +889,10 @@
   resolved "https://registry.yarnpkg.com/@vueuse/head/-/head-0.7.6.tgz#39eb2aa593db6f02d10ba469b33d8cfbce038183"
   integrity sha512-cOWqCkT3WiF5oEpw+VVEWUJd9RLD5rc7DmnFp3cePsejp+t7686uKD9Z9ZU7Twb7R/BI8iexKTmXo9D/F3v6UA==
 
-"@yeger/eslint-config@1.4.30":
-  version "1.4.30"
-  resolved "https://registry.yarnpkg.com/@yeger/eslint-config/-/eslint-config-1.4.30.tgz#27136e41bb3cbf53cfacf551d0536a5dfb820261"
-  integrity sha512-yRvhXgmMwVfl4ryXC5HY8p7JV8jQnypZmmC55BWMdf5jH9gw0bwlDbvPz9F1iXNlt3nEKQV7w+IN2btnMjBR/w==
+"@yeger/eslint-config@1.4.31":
+  version "1.4.31"
+  resolved "https://registry.yarnpkg.com/@yeger/eslint-config/-/eslint-config-1.4.31.tgz#dca0da2ec8dc03c938d5c376e54e9a7f87a41bf2"
+  integrity sha512-Gqu2JWkXsbQizopAjmZuA9SNuKp69g9nWAqoCn0tKgfXu88HlVAoAEozlpKkAcCP1xBv90YDdfL3fl86z6Lm3Q==
   dependencies:
     "@antfu/eslint-config" "0.25.2"
     eslint-config-prettier "8.5.0"
@@ -900,7 +900,7 @@
     eslint-plugin-import "2.26.0"
     eslint-plugin-markdown "2.2.1"
     eslint-plugin-md "1.0.19"
-    eslint-plugin-prettier "4.0.0"
+    eslint-plugin-prettier "4.1.0"
     eslint-plugin-tsdoc "0.2.16"
     eslint-plugin-unused-imports "2.0.0"
     eslint-plugin-yml "1.0.0"
@@ -2173,10 +2173,10 @@ eslint-plugin-n@^15.2.0:
     resolve "^1.10.1"
     semver "^6.3.0"
 
-eslint-plugin-prettier@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.0.0.tgz#8b99d1e4b8b24a762472b4567992023619cb98e0"
-  integrity sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==
+eslint-plugin-prettier@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.1.0.tgz#1cd4b3fadf3b3cdb30b1874b55e7f93f85eb43ad"
+  integrity sha512-A3AXIEfTnq3D5qDFjWJdQ9c4BLhw/TqhSR+6+SVaoPJBAWciFEuJiNQh275OnjRrAi7yssZzuWBRw66VG2g6UA==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
