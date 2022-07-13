@@ -53,7 +53,7 @@
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.3",
     "@types/node": "17.0.5",
-    "@vitejs/plugin-vue": "2.3.3",
+    "@vitejs/plugin-vue": "3.0.0",
     "@vitest/ui": "0.18.0",
     "@vueuse/head": "0.7.6",
     "@yeger/eslint-config": "1.4.32",
