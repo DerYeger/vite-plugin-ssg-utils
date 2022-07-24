@@ -54,8 +54,8 @@
     "@commitlint/config-conventional": "17.0.3",
     "@types/node": "17.0.5",
     "@vitejs/plugin-vue": "3.0.1",
-    "@vitest/ui": "0.18.1",
-    "@vueuse/head": "0.7.6",
+    "@vitest/ui": "0.19.0",
+    "@vueuse/head": "0.7.7",
     "@yeger/eslint-config": "1.4.33",
     "eslint": "8.20.0",
     "husky": "8.0.1",
@@ -68,7 +68,7 @@
     "vite": "3.0.2",
     "vite-plugin-ssg-utils": "link:.",
     "vite-ssg": "0.20.2",
-    "vitest": "0.18.1",
+    "vitest": "0.19.0",
     "vue": "3.2.37"
   },
   "lint-staged": {
