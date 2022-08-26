@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.5...v1.0.6) (2022-08-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typescript to v4.8.2 ([0b1d651](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/0b1d6514c821d4ed15a8c9166bef529d5a5dfb1f))
+
 ## [1.0.5](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.4...v1.0.5) (2022-08-20)
 
 
