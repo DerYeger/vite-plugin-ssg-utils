@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.9...v1.0.10) (2022-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency vue to v3.2.39 ([f116d89](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/f116d898674b85d6cb1430f66c03aa7a70372c9f))
+
 ## [1.0.9](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.8...v1.0.9) (2022-09-09)
 
 
