@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.14...v1.0.15) (2022-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update all non-major dependencies ([9ad0714](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/9ad07144330db9dafc4d45c8ade4bf2fae076579))
+
 ## [1.0.14](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.13...v1.0.14) (2022-10-01)
 
 
