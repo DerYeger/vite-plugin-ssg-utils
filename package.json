@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-ssg-utils",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Utils for vite-ssg and other Vite SSG or SSR tools.",
   "author": "Jan Müller <janmueller3698@gmail.com>",
   "license": "MIT",
