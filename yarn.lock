@@ -913,10 +913,10 @@
   dependencies:
     vue-demi "*"
 
-"@yeger/eslint-config@1.4.45":
-  version "1.4.45"
-  resolved "https://registry.yarnpkg.com/@yeger/eslint-config/-/eslint-config-1.4.45.tgz#da98766f89f74a0460c4f7fe5339fdcb7af241da"
-  integrity sha512-cQYorwEs6wPaxmA3a6/t711WNv+StTImZ4Vb3j0+gBmnlQM6lgSsu4j15MG1gfnt5hexB+fxu0Wph3BuZkVyhQ==
+"@yeger/eslint-config@1.4.46":
+  version "1.4.46"
+  resolved "https://registry.yarnpkg.com/@yeger/eslint-config/-/eslint-config-1.4.46.tgz#dd5e21566ab3fa2c8f923522fc131690db369030"
+  integrity sha512-FsT8SHwZjjG4W3Z5wIJBuDSPOv3x7KFHhLsIgp90sjgm88gRG3uQlme7Qthan4wALnkGHv3/GXcsmM3JGjG4gg==
   dependencies:
     "@antfu/eslint-config" "0.27.0"
     eslint-config-prettier "8.5.0"
