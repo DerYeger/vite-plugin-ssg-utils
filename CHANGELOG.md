@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.19...v1.0.20) (2022-10-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @yeger/eslint-config to v1.4.46 ([75b94c3](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/75b94c33c3e8535095fcf5787afbffa3684b40f0))
+
 ## [1.0.19](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.18...v1.0.19) (2022-10-29)
 
 
