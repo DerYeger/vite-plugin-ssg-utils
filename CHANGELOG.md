@@ -1,3 +1,10 @@
+## [1.0.23](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.22...v1.0.23) (2022-11-05)
+
+
+### Bug Fixes
+
+* **deps:** update vitest monorepo to v0.24.5 ([6ebca9c](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/6ebca9cdbcbc411ffe81e8f42ebf585430c368f2))
+
 ## [1.0.22](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.21...v1.0.22) (2022-11-05)
 
 
