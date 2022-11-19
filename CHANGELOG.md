@@ -1,3 +1,11 @@
+## [1.0.28](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.27...v1.0.28) (2022-11-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @vueuse/head to v1 ([41fc2d2](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/41fc2d2906d529ceb1d43aef86fc2b742d865dfe))
+* **deps:** update dependency unbuild to v1 ([550868d](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/550868d3898581fba41b38b73f19a165a603d6e8))
+
 ## [1.0.27](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.26...v1.0.27) (2022-11-19)
 
 
