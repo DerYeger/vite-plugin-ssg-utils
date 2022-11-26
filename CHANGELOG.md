@@ -1,3 +1,10 @@
+## [1.0.30](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.29...v1.0.30) (2022-11-26)
+
+
+### Bug Fixes
+
+* **deps:** update commitlint monorepo to v17.3.0 ([67875b1](https://github.com/DerYeger/vite-plugin-ssg-utils/commit/67875b1cd6ccb80937b52e95fb1eeb3f3eef0e25))
+
 ## [1.0.29](https://github.com/DerYeger/vite-plugin-ssg-utils/compare/v1.0.28...v1.0.29) (2022-11-26)
 
 
